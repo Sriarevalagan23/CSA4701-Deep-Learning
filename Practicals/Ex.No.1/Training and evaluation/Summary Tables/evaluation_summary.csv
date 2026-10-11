@@ -1,0 +1,7 @@
+metric,value
+Test accuracy,0.9814814814814815
+Test error rate,0.01851851851851849
+Training samples,1257.0
+Validation samples,270.0
+Test samples,270.0
+Iterations completed,98.0
