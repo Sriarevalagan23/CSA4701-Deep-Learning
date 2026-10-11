@@ -1,0 +1,11 @@
+item,value
+Total images,1797.0
+Image height,8.0
+Image width,8.0
+Pixel features after flattening,64.0
+Classes,10.0
+Raw pixel minimum,0.0
+Raw pixel maximum,16.0
+Train samples,1257.0
+Validation samples,270.0
+Test samples,270.0
