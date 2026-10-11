@@ -1,7 +1,0 @@
-Data collection and preprocessing results
-Dataset: scikit-learn handwritten digits
-Number of images: 1797
-Image dimensions: 8 x 8 grayscale
-Flattened features per image: 64
-Raw pixel range: 0 to 16
-Preprocessing: pixel values divided by 16 to normalize to 0..1
