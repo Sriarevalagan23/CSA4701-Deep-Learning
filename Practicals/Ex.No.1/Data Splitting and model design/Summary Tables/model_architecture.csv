@@ -1,0 +1,4 @@
+layer,units,description
+Input,64,Flattened 8x8 grayscale image
+Dense hidden layer,64,ReLU activation
+Output,10,One output score per digit class; predict highest score

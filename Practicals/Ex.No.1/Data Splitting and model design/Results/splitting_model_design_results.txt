@@ -1,0 +1,7 @@
+Data splitting and model design results
+Training samples: 1257 (70%)
+Validation samples: 270 (15%)
+Test samples: 270 (15%)
+Split method: stratified train/validation/test split
+Random seed: 42
+Architecture: 64 input features -> 64 ReLU hidden units -> 10 digit classes
