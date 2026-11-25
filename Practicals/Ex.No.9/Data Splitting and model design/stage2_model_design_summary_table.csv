@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Multilayer Perceptron Implementation
+Validation,30,15%,Multilayer Perceptron Implementation
+Test,30,15%,Multilayer Perceptron Implementation

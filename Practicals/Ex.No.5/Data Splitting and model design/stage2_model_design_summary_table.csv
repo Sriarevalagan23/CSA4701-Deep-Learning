@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,"Bias–Variance, Overfitting and Underfitting Analysis"
+Validation,30,15%,"Bias–Variance, Overfitting and Underfitting Analysis"
+Test,30,15%,"Bias–Variance, Overfitting and Underfitting Analysis"

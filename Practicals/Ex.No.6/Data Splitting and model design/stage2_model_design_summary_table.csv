@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,"Gradient Descent, SGD, Momentum and Adam Comparison"
+Validation,30,15%,"Gradient Descent, SGD, Momentum and Adam Comparison"
+Test,30,15%,"Gradient Descent, SGD, Momentum and Adam Comparison"

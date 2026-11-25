@@ -1,0 +1,6 @@
+Experiment 06 (CO1): Gradient Descent, SGD, Momentum and Adam Comparison
+Stage: Data Splitting and Model Design
+============================================================
+Split Ratio: 70% Train (140), 15% Val (30), 15% Test (30)
+Required Libraries: NumPy, TensorFlow, Keras, Matplotlib
+Architecture / Formulation Status: Initialized with Xavier/He weights and analytical hyperparameters.

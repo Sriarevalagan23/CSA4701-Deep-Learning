@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,"L2, Dropout and Early Stopping Comparison"
+Validation,30,15%,"L2, Dropout and Early Stopping Comparison"
+Test,30,15%,"L2, Dropout and Early Stopping Comparison"

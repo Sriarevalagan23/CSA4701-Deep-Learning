@@ -1,0 +1,6 @@
+Experiment 03 (CO1): Probability Distributions and Bayes’ Theorem
+Stage: Data Splitting and Model Design
+============================================================
+Split Ratio: 70% Train (140), 15% Val (30), 15% Test (30)
+Required Libraries: NumPy, SciPy, Matplotlib
+Architecture / Formulation Status: Initialized with Xavier/He weights and analytical hyperparameters.

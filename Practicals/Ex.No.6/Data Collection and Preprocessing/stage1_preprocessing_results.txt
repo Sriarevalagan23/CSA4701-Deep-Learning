@@ -1,0 +1,6 @@
+Experiment 06 (CO1): Gradient Descent, SGD, Momentum and Adam Comparison
+Stage: Data Collection and Preprocessing
+============================================================
+Dataset Rows: 200 | Columns: 8
+Missing Values: 0 | Scaling: StandardScaler (Zero Mean, Unit Variance)
+Output Artifact: Clean normalized feature matrix ready for splitting.

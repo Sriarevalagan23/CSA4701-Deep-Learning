@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,"Covariance, Eigenvalues and Eigenvectors Analysis"
+Validation,30,15%,"Covariance, Eigenvalues and Eigenvectors Analysis"
+Test,30,15%,"Covariance, Eigenvalues and Eigenvectors Analysis"

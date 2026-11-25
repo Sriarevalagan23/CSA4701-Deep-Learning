@@ -1,0 +1,7 @@
+Experiment 07 (CO2): Perceptron and Forward Propagation
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0707
+Final Validation Loss/Error: 0.1423
+Final Evaluation Score:      91.46%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

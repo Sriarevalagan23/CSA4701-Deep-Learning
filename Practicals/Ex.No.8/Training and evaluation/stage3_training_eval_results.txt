@@ -1,0 +1,7 @@
+Experiment 08 (CO2): Two-Layer Neural Network with Backpropagation
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0871
+Final Validation Loss/Error: 0.1242
+Final Evaluation Score:      92.55%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

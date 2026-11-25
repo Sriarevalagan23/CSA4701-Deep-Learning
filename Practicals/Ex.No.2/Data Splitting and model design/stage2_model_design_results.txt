@@ -1,0 +1,6 @@
+Experiment 02 (CO1): Covariance, Eigenvalues and Eigenvectors Analysis
+Stage: Data Splitting and Model Design
+============================================================
+Split Ratio: 70% Train (140), 15% Val (30), 15% Test (30)
+Required Libraries: NumPy, Pandas, Matplotlib
+Architecture / Formulation Status: Initialized with Xavier/He weights and analytical hyperparameters.

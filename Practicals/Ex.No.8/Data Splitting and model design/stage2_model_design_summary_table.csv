@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Two-Layer Neural Network with Backpropagation
+Validation,30,15%,Two-Layer Neural Network with Backpropagation
+Test,30,15%,Two-Layer Neural Network with Backpropagation

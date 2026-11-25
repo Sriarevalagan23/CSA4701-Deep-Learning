@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Probability Distributions and Bayes’ Theorem
+Validation,30,15%,Probability Distributions and Bayes’ Theorem
+Test,30,15%,Probability Distributions and Bayes’ Theorem

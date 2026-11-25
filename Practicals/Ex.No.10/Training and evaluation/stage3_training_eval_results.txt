@@ -1,0 +1,7 @@
+Experiment 10 (CO2): L2, Dropout and Early Stopping Comparison
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0714
+Final Validation Loss/Error: 0.1365
+Final Evaluation Score:      91.81%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

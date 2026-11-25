@@ -1,0 +1,7 @@
+Experiment 05 (CO1): Bias–Variance, Overfitting and Underfitting Analysis
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0749
+Final Validation Loss/Error: 0.1196
+Final Evaluation Score:      92.83%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

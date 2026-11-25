@@ -1,0 +1,6 @@
+Experiment 08 (CO2): Two-Layer Neural Network with Backpropagation
+Stage: Data Collection and Preprocessing
+============================================================
+Dataset Rows: 200 | Columns: 8
+Missing Values: 0 | Scaling: StandardScaler (Zero Mean, Unit Variance)
+Output Artifact: Clean normalized feature matrix ready for splitting.

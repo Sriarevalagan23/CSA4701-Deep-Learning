@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,"Entropy, Cross-Entropy and KL Divergence"
+Validation,30,15%,"Entropy, Cross-Entropy and KL Divergence"
+Test,30,15%,"Entropy, Cross-Entropy and KL Divergence"

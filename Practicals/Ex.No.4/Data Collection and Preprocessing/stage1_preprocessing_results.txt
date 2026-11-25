@@ -1,0 +1,6 @@
+Experiment 04 (CO1): Entropy, Cross-Entropy and KL Divergence
+Stage: Data Collection and Preprocessing
+============================================================
+Dataset Rows: 200 | Columns: 5
+Missing Values: 0 | Scaling: StandardScaler (Zero Mean, Unit Variance)
+Output Artifact: Clean normalized feature matrix ready for splitting.
