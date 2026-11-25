@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Independent Component Analysis and Component Visualization
+Validation,30,15%,Independent Component Analysis and Component Visualization
+Test,30,15%,Independent Component Analysis and Component Visualization

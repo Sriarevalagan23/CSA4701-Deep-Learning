@@ -1,0 +1,7 @@
+Experiment 15 (CO3): BPTT Flow and Gradient Analysis
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0616
+Final Validation Loss/Error: 0.1160
+Final Evaluation Score:      93.04%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

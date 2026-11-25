@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Factor Analysis and Latent Factor Interpretation
+Validation,30,15%,Factor Analysis and Latent Factor Interpretation
+Test,30,15%,Factor Analysis and Latent Factor Interpretation

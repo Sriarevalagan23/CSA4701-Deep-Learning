@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,PCA and Explained Variance Analysis
+Validation,30,15%,PCA and Explained Variance Analysis
+Test,30,15%,PCA and Explained Variance Analysis

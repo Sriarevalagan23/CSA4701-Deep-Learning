@@ -1,0 +1,7 @@
+Experiment 11 (CO2): CNN for Image Classification
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0799
+Final Validation Loss/Error: 0.1202
+Final Evaluation Score:      92.79%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

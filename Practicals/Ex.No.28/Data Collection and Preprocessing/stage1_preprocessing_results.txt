@@ -1,0 +1,6 @@
+Experiment 28 (CO5): Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation
+Stage: Data Collection and Preprocessing
+============================================================
+Dataset Rows: 200 | Columns: 17
+Missing Values: 0 | Scaling: StandardScaler (Zero Mean, Unit Variance)
+Output Artifact: Clean normalized feature matrix ready for splitting.

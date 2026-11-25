@@ -1,0 +1,6 @@
+Experiment 11 (CO2): CNN for Image Classification
+Stage: Data Splitting and Model Design
+============================================================
+Split Ratio: 70% Train (140), 15% Val (30), 15% Test (30)
+Required Libraries: TensorFlow, Keras, NumPy, Matplotlib
+Architecture / Formulation Status: Initialized with Xavier/He weights and analytical hyperparameters.

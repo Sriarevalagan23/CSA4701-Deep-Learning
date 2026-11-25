@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Sequential Dataset Preparation and RNN Prediction
+Validation,30,15%,Sequential Dataset Preparation and RNN Prediction
+Test,30,15%,Sequential Dataset Preparation and RNN Prediction

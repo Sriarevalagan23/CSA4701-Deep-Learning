@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Generative Model Output Comparison and Evaluation
+Validation,30,15%,Generative Model Output Comparison and Evaluation
+Test,30,15%,Generative Model Output Comparison and Evaluation

@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,CNN Architecture and Hyperparameter Comparison
+Validation,30,15%,CNN Architecture and Hyperparameter Comparison
+Test,30,15%,CNN Architecture and Hyperparameter Comparison

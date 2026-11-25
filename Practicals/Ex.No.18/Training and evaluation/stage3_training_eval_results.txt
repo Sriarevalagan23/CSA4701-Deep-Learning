@@ -1,0 +1,7 @@
+Experiment 18 (CO3): RNN, LSTM and GRU Hyperparameter Experimentation
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0861
+Final Validation Loss/Error: 0.1231
+Final Evaluation Score:      92.62%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

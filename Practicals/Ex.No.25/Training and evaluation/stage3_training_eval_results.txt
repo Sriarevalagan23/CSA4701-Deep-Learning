@@ -1,0 +1,7 @@
+Experiment 25 (CO5): Restricted Boltzmann Machine Energy and Reconstruction
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0808
+Final Validation Loss/Error: 0.1264
+Final Evaluation Score:      92.42%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

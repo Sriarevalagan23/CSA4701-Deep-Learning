@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,RNN Gradient Analysis and Gradient Clipping
+Validation,30,15%,RNN Gradient Analysis and Gradient Clipping
+Test,30,15%,RNN Gradient Analysis and Gradient Clipping

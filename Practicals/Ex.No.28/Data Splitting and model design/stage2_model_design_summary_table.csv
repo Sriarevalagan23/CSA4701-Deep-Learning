@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation
+Validation,30,15%,Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation
+Test,30,15%,Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation

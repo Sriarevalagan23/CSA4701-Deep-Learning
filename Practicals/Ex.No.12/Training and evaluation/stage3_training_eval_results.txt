@@ -1,0 +1,7 @@
+Experiment 12 (CO2): CNN Architecture and Hyperparameter Comparison
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0813
+Final Validation Loss/Error: 0.1332
+Final Evaluation Score:      92.01%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

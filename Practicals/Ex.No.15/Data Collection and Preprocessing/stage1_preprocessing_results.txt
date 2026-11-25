@@ -1,0 +1,6 @@
+Experiment 15 (CO3): BPTT Flow and Gradient Analysis
+Stage: Data Collection and Preprocessing
+============================================================
+Dataset Rows: 200 | Columns: 4
+Missing Values: 0 | Scaling: StandardScaler (Zero Mean, Unit Variance)
+Output Artifact: Clean normalized feature matrix ready for splitting.

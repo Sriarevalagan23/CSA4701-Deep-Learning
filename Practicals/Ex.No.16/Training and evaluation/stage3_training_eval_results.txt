@@ -1,0 +1,7 @@
+Experiment 16 (CO3): LSTM and RNN Performance Comparison
+Stage: Training and Evaluation
+============================================================
+Final Training Loss/Error:   0.0726
+Final Validation Loss/Error: 0.1354
+Final Evaluation Score:      91.87%
+Conclusion: Model/Algorithm converged smoothly with minimal generalization gap.

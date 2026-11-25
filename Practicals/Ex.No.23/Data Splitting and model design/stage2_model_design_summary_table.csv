@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Bayesian Network Construction and Visualization
+Validation,30,15%,Bayesian Network Construction and Visualization
+Test,30,15%,Bayesian Network Construction and Visualization

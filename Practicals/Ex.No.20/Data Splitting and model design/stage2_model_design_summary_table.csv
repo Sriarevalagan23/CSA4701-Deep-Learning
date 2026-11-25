@@ -1,0 +1,4 @@
+Split,Samples,Percentage,Experiment_Module
+Train,140,70%,Probabilistic PCA and Reconstruction Analysis
+Validation,30,15%,Probabilistic PCA and Reconstruction Analysis
+Test,30,15%,Probabilistic PCA and Reconstruction Analysis
